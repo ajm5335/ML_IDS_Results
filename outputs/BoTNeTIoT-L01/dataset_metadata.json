@@ -1,0 +1,9 @@
+{
+  "rows_after_cleaning": 2426574,
+  "numeric_features_before_train_only_filtering": 23,
+  "classes": [
+    "Benign",
+    "Attack"
+  ],
+  "data_path": "/content/data/BoTNeTIoT-L01.csv"
+}
